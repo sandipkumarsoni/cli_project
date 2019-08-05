@@ -21,3 +21,4 @@ while 1:
 	new_msg = new_msg.encode()
 	s.send(new_msg)
 	print("Message send to server...")
+
