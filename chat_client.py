@@ -26,6 +26,10 @@ while 1:
 	msg = msg.decode()
 	print("Server Reply:", msg)
 	
+### HII CLIents tttttttttttttttttttttttttttttttttttttttttttttt
 ### HII CLIents tttttttttttttttttttttttttttttttttttttttttttttt	
+### HII CLIents tttttttttttttttttttttttttttttttttttttttttttttt	
+### HII CLIents tttttttttttttttttttttttttttttttttttttttttttttt	
+
 	
 	
