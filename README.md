@@ -1,4 +1,4 @@
-# cli_project
+# MY CLI PROJECT
 
 About: This poject create chat interface between server to multiple client. On request of client server will respond accordingly. I made this project on localhost. Both Server and clients on localhost. In this i created only two clients. We can create multiple.
 
